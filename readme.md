@@ -1,3 +1,5 @@
+![](https://travis-ci.org/zodiac403/demo-pi-unit.svg?branch=master)
+
 # demo-pi-unit
 Unit Tests with Python
 
