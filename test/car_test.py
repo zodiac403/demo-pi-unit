@@ -1,5 +1,5 @@
 import unittest
-from car import Car
+from src.car import Car
 
 print Car.__doc__
 
